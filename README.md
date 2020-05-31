@@ -1,10 +1,15 @@
 # ECSE321 Project Group 1 
-![Travis Build Status](https://travis-ci.com/McGill-ECSE321-Winter2020/project-group-01.svg?token=fsmRFkAy9TTnJy5UEPzf&branch=master) [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/McGill-ECSE321-Winter2020/project-group-01)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/McGill-ECSE321-Winter2020/project-group-01)
-![GitHub forks](https://img.shields.io/github/forks/McGill-ECSE321-Winter2020/project-group-01?style=social)
-![GitHub stars](https://img.shields.io/github/stars/McGill-ECSE321-Winter2020/project-group-01?style=social)
-![GitHub issues](https://img.shields.io/github/issues/McGill-ECSE321-Winter2020/project-group-01)
+![Travis Build Status](https://travis-ci.com/McGill-ECSE321-Winter2020/project-group-01.svg?token=fsmRFkAy9TTnJy5UEPzf&branch=master) [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Louismousine/pet-pawlace)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Louismousine/pet-pawlace)
+![GitHub forks](https://img.shields.io/github/forks/Louismousine/pet-pawlace?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Louismousine/pet-pawlace?style=social)
+![GitHub issues](https://img.shields.io/github/issues/Louismousine/pet-pawlace)
 
+# Important Note
+The project was cancelled mid-way through the semester due to the COVID-19 pandemic. As such, the frontend was not finished. Only my contributions appear on the website which can be accessed here: https://pet-pawlace.herokuapp.com/
+On top of the basic required features, the backend I designed supports JWT authorization and authenticationand  email sending to validate new accounts.
+
+Also, the original GitHub repository where the project was hosted is private; thus, the links to the Wiki found on this readme will not work, and the issues did not transfer to this repository.
 ## Project Overview
 We are developing a website and an Android app to facilitate the pet adoption process of a local pet shelter. In this system,
 users can post advertisements to put their pets up for adoption. They can also apply to adopt a pet on an advertisement
